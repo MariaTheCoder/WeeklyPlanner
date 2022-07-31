@@ -25,6 +25,7 @@ body {
 }
 
 .hour {
+    height: 20px;
     text-align: center;
 }
 
