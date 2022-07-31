@@ -16,6 +16,9 @@ body {
     text-align: center;
 }
 
+.hour {
+    text-align: center;
+}
 .grid-container {
     height: fit-content;
     padding: 5px;
